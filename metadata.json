@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Remix: NOVA - final backup 1",
+  "description": "An emotionally responsive, real-time voice assistant with a witty personality.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Real-time Audio",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
